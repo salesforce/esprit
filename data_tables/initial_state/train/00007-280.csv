@@ -1,0 +1,12 @@
+object_id,type,state,color,x,y,angle,length,width,base_length,radius
+0,boundary,Static,Black,128.0,-2.5,0.0,256.0,5.0,,
+1,boundary,Static,Black,-2.5,128.0,0.0,5.0,256.0,,
+2,boundary,Static,Black,128.0,258.5,0.0,256.0,5.0,,
+3,boundary,Static,Black,258.5,128.0,0.0,5.0,256.0,,
+4,circle,Dynamic,Green,107.78947448730469,249.48092651367188,,,,,6.5
+5,bar,Static,Purple,25.60000228881836,2.559999942779541,0.0,51.2,5.12,,
+6,bar,Static,Black,153.60000610351562,2.559999942779541,0.0,204.8,5.12,,
+7,bar,Static,Black,76.80000305175781,7.679999828338623,0.0,51.2,5.12,,
+8,bar,Static,Black,59.77980041503906,202.70025634765625,-0.4072434902191162,128.0,5.12,,
+9,bar,Static,Black,196.22018432617188,202.70025634765625,0.4072434902191162,128.0,5.12,,
+10,User Circle,Dynamic,Red,137,106,,,,,23

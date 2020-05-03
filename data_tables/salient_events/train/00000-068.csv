@@ -1,0 +1,180 @@
+in_solved_state,step,is_list,id,type,color,x,y,x_vel,y_vel,angle,is_collision,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,kind,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2,id_1,type_1,color_1,x_1,y_1,x_vel_1,y_vel_1,angle_1,id_2,type_2,color_2,x_2,y_2,x_vel_2,y_vel_2,angle_2
+False,83,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28,1.66167,0,-13.72,0
+False,83,True,6,User Circle,Red,28,1.68084,0,2.744,0,False
+False,83,True,5,circle,Blue,27.7333,14.1983,0,-13.72,0,False
+False,83,True,4,circle,Green,2.13333,12.865,0,-13.72,0,False
+False,84,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28,1.68084,0,2.744,0
+False,84,True,6,User Circle,Red,28,1.72385,0,2.58067,0,False
+False,84,True,5,circle,Blue,27.7333,13.9669,0,-13.8833,0,False
+False,84,True,4,circle,Green,2.13333,12.6336,0,-13.8833,0,False
+False,115,False,,,,,,,,,True,begin,5,circle,Blue,27.7333,5.75945,0,-18.7833,0,6,User Circle,Red,28,1.74835,0,-2.31933,0
+False,115,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0042,1.66167,0.644636,-16.3901,0.0011626
+False,115,True,6,User Circle,Red,28.0075,1.71393,0.255846,3.27801,-0.00082708,False
+False,115,True,5,circle,Blue,27.7255,5.58788,-0.268319,-13.1579,0.0014335,False
+False,115,True,4,circle,Green,2.13333,4.11034,0,-18.9467,0,False
+False,116,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0075,1.71393,0.255846,3.27801,-0.00082708
+False,116,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0115,1.66167,0.795902,-10.7402,-5.54665e-05
+False,116,True,6,User Circle,Red,28.0163,1.70251,0.338156,2.14804,-0.00298809,False
+False,116,True,5,circle,Blue,27.7106,5.54969,-0.493108,-7.55443,0.00519751,False
+False,116,True,4,circle,Green,2.13333,3.79184,0,-19.11,0,False
+False,117,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0163,1.70251,0.338156,2.14804,-0.00298809
+False,117,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.02,1.66167,0.616054,-6.15831,-0.00262035
+False,117,True,6,User Circle,Red,28.0245,1.68961,0.306427,1.23166,-0.00532693,False
+False,117,True,5,circle,Blue,27.6919,5.57879,-0.608779,-4.32838,0.0107887,False
+False,117,True,4,circle,Green,2.13333,3.47062,0,-19.2733,0,False
+False,118,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0245,1.68961,0.306427,1.23166,-0.00532693
+False,118,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0272,1.66167,0.474094,-3.56214,-0.00522694
+False,118,True,6,User Circle,Red,28.0315,1.68221,0.282125,0.712429,-0.0077722,False
+False,118,True,5,circle,Blue,27.6723,5.62858,-0.678567,-2.56435,0.0175186,False
+False,118,True,4,circle,Green,2.13333,3.14668,0,-19.4367,0,False
+False,119,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0315,1.68221,0.282125,0.712429,-0.0077722
+False,119,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0337,1.66167,0.389021,-2.14356,-0.00780094
+False,119,True,6,User Circle,Red,28.0378,1.67799,0.269407,0.428711,-0.0102488,False
+False,119,True,5,circle,Blue,27.6528,5.67904,-0.723061,-1.60692,0.0249455,False
+False,119,True,4,circle,Green,2.13333,2.82001,0,-19.6,0,False
+False,120,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0378,1.67799,0.269407,0.428711,-0.0102488
+False,120,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,6,User Circle,Red,28.0398,1.66167,0.340988,-1.37165,-0.0103541
+False,120,True,6,User Circle,Red,28.0437,1.67565,0.263956,0.274329,-0.0127458,False
+False,120,True,5,circle,Blue,27.6341,5.72268,-0.752855,-1.08887,0.0328101,False
+False,120,True,4,circle,Green,2.13333,2.49062,0,-19.7633,0,False
+False,124,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,4,circle,Green,2.13333,1.245,0,-20.4167,0
+False,124,True,6,User Circle,Red,28.0841,1.66552,0.26723,3.49246e-09,-0.023315,False
+False,124,True,5,circle,Blue,27.5626,5.86934,-0.835079,-0.132284,0.0680584,False
+False,124,True,4,circle,Green,2.13333,1.27468,0,4.08333,0,False
+False,125,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,4,circle,Green,2.13333,1.27468,0,4.08333,0
+False,125,True,6,User Circle,Red,28.0887,1.66575,0.270209,3.69164e-09,-0.0260261,False
+False,125,True,5,circle,Blue,27.5484,5.86756,-0.845725,-0.138435,0.0770793,False
+False,125,True,4,circle,Green,2.13333,1.34001,0,3.92,0,False
+False,174,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,4,circle,Green,2.13333,1.245,0,-4.08333,0
+False,174,True,6,User Circle,Red,28.4015,1.67158,0.49248,1.02045e-08,-0.211495,False
+False,174,True,5,circle,Blue,26.5043,5.47001,-1.84076,-1.1358,0.745997,False
+False,174,True,4,circle,Green,2.13333,1.26252,0,0.816667,0,False
+False,175,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,4,circle,Green,2.13333,1.26252,0,0.816667,0
+False,175,True,6,User Circle,Red,28.4098,1.6716,0.496006,-3.32966e-09,-0.216462,False
+False,175,True,5,circle,Blue,26.4732,5.45032,-1.86966,-1.18155,0.766274,False
+False,175,True,4,circle,Green,2.13333,1.27341,0,0.653334,0,False
+False,185,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,4,circle,Green,2.13333,1.24891,0,-0.816666,0
+False,185,True,6,User Circle,Red,28.4944,1.67166,0.511678,7.4424e-09,-0.267346,False
+False,185,True,5,circle,Blue,26.1347,5.20498,-2.16276,-1.73813,0.988632,False
+False,185,True,4,circle,Green,2.13333,1.25013,0,0,0,False
+False,190,False,,,,,,,,,True,end,5,circle,Blue,25.9857,5.07764,-2.27718,-2.01774,1.08799,6,User Circle,Red,28.5283,1.67166,0.503181,1.23491e-08,-0.287666
+False,190,True,6,User Circle,Red,28.5366,1.67166,0.503153,0,-0.292705,False
+False,190,True,5,circle,Blue,25.9478,5.04129,-2.27718,-2.18108,1.11341,False
+False,190,True,4,circle,Green,2.13333,1.2534,0,0,0,False
+False,191,False,,,,,,,,,True,begin,5,circle,Blue,25.9478,5.04129,-2.27718,-2.18108,1.11341,6,User Circle,Red,28.5366,1.67166,0.503153,0,-0.292705
+False,191,True,6,User Circle,Red,28.5449,1.67166,0.494144,-2.72412e-08,-0.297654,False
+False,191,True,5,circle,Blue,25.9089,5.00507,-2.33235,-2.17294,1.1396,False
+False,191,True,4,circle,Green,2.13333,1.25372,0,0,0,False
+False,193,False,,,,,,,,,True,end,5,circle,Blue,25.8696,4.96754,-2.35979,-2.25171,1.16618,6,User Circle,Red,28.553,1.67166,0.488441,4.10364e-09,-0.302545
+False,193,True,6,User Circle,Red,28.5612,1.67167,0.488414,0,-0.307437,False
+False,193,True,5,circle,Blue,25.8303,4.92729,-2.35979,-2.41504,1.19276,False
+False,193,True,4,circle,Green,2.13333,1.25418,0,0,0,False
+False,194,False,,,,,,,,,True,begin,5,circle,Blue,25.8303,4.92729,-2.35979,-2.41504,1.19276,6,User Circle,Red,28.5612,1.67167,0.488414,0,-0.307437
+False,194,True,6,User Circle,Red,28.5691,1.67167,0.473853,-6.8685e-09,-0.312183,False
+False,194,True,5,circle,Blue,25.7901,4.88693,-2.41164,-2.42185,1.22012,False
+False,194,True,4,circle,Green,2.13333,1.25435,0,0,0,False
+False,196,False,,,,,,,,,True,end,5,circle,Blue,25.7494,4.84513,-2.43729,-2.50803,1.24788,6,User Circle,Red,28.5768,1.67167,0.465121,6.34464e-09,-0.316841
+False,196,True,6,User Circle,Red,28.5846,1.67167,0.465096,0,-0.321499,False
+False,196,True,5,circle,Blue,25.7088,4.80061,-2.43729,-2.67137,1.27563,False
+False,196,True,4,circle,Green,2.13333,1.25458,0,0,0,False
+False,197,False,,,,,,,,,True,begin,5,circle,Blue,25.7088,4.80061,-2.43729,-2.67137,1.27563,6,User Circle,Red,28.5846,1.67167,0.465096,0,-0.321499
+False,197,True,6,User Circle,Red,28.592,1.67167,0.443899,1.89757e-08,-0.325944,False
+False,197,True,5,circle,Blue,25.6674,4.75571,-2.48478,-2.69342,1.30416,False
+False,197,True,4,circle,Green,2.13333,1.25467,0,0,0,False
+False,198,False,,,,,,,,,True,end,5,circle,Blue,25.6674,4.75571,-2.48478,-2.69342,1.30416,6,User Circle,Red,28.592,1.67167,0.443899,1.89757e-08,-0.325944
+False,198,True,6,User Circle,Red,28.5994,1.67167,0.443875,0,-0.33039,False
+False,198,True,5,circle,Blue,25.626,4.7081,-2.48478,-2.85676,1.33269,False
+False,198,True,4,circle,Green,2.13333,1.25473,0,0,0,False
+False,199,False,,,,,,,,,True,begin,5,circle,Blue,25.626,4.7081,-2.48478,-2.85676,1.33269,6,User Circle,Red,28.5994,1.67167,0.443875,0,-0.33039
+False,199,True,6,User Circle,Red,28.6063,1.67167,0.417561,5.12227e-09,-0.334572,False
+False,199,True,5,circle,Blue,25.5838,4.65996,-2.52894,-2.88853,1.36199,False
+False,199,True,4,circle,Green,2.13333,1.25479,0,0,0,False
+False,200,False,,,,,,,,,True,end,5,circle,Blue,25.5838,4.65996,-2.52894,-2.88853,1.36199,6,User Circle,Red,28.6063,1.67167,0.417561,5.12227e-09,-0.334572
+False,200,True,6,User Circle,Red,28.6133,1.67167,0.417537,0,-0.338753,False
+False,200,True,5,circle,Blue,25.5417,4.6091,-2.52894,-3.05186,1.39129,False
+False,200,True,4,circle,Green,2.13333,1.25483,0,0,0,False
+False,202,False,,,,,,,,,True,begin,5,circle,Blue,25.4995,4.55551,-2.52894,-3.21519,1.42058,6,User Circle,Red,28.6202,1.67167,0.417514,-1.24078e-09,-0.342935
+False,202,True,6,User Circle,Red,28.6268,1.67167,0.395481,-2.51457e-08,-0.346896,False
+False,202,True,5,circle,Blue,25.4565,4.50166,-2.58526,-3.23118,1.45077,False
+False,202,True,4,circle,Green,2.13333,1.25489,0,0,0,False
+False,204,False,,,,,,,,,True,end,5,circle,Blue,25.4131,4.44586,-2.60349,-3.34759,1.48125,6,User Circle,Red,28.6333,1.67167,0.387981,-3.95812e-09,-0.350781
+False,204,True,6,User Circle,Red,28.6398,1.67167,0.387959,6.2098e-09,-0.354667,False
+False,204,True,5,circle,Blue,25.3697,4.38735,-2.60349,-3.51093,1.51172,False
+False,204,True,4,circle,Green,2.13333,1.25493,0,0,0,False
+False,209,False,,,,,,,,,True,begin,5,circle,Blue,25.1961,4.12606,-2.60349,-4.16426,1.63357,6,User Circle,Red,28.6656,1.67167,0.387873,0,-0.370206
+False,209,True,6,User Circle,Red,28.6721,1.67167,0.390619,3.08501e-09,-0.374118,False
+False,209,True,5,circle,Blue,25.1522,4.05482,-2.63209,-4.27449,1.66436,False
+False,209,True,4,circle,Green,2.13333,1.25498,0,0,0,False
+False,210,False,,,,,,,,,True,end,5,circle,Blue,25.1522,4.05482,-2.63209,-4.27449,1.66436,6,User Circle,Red,28.6721,1.67167,0.390619,3.08501e-09,-0.374118
+False,210,True,6,User Circle,Red,28.6786,1.67167,0.390598,0,-0.37803,False
+False,210,True,5,circle,Blue,25.1084,3.98086,-2.63209,-4.43782,1.69515,False
+False,210,True,4,circle,Green,2.13333,1.25498,0,0,0,False
+False,225,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,24.4632,2.57833,-2.63209,-6.88782,2.1474
+False,225,True,6,User Circle,Red,28.7762,1.67167,0.390272,0,-0.436682,False
+False,225,True,5,circle,Blue,24.4469,2.59443,-3.34089,1.37756,2.15372,False
+False,225,True,4,circle,Green,2.13333,1.25499,0,0,0,False
+False,226,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,24.4469,2.59443,-3.34089,1.37756,2.15372
+False,226,True,6,User Circle,Red,28.7827,1.67167,0.39025,0,-0.44059,False
+False,226,True,5,circle,Blue,24.3912,2.61466,-3.34089,1.21423,2.17529,False
+False,226,True,4,circle,Green,2.13333,1.25499,0,0,0,False
+False,242,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,23.556,2.59156,-3.34089,-1.23577,2.49847
+False,242,True,6,User Circle,Red,28.8868,1.67167,0.389902,0,-0.503094,False
+False,242,True,5,circle,Blue,23.5003,2.59622,-3.33856,0.279821,2.52002,False
+False,242,True,4,circle,Green,2.13333,1.25499,0,0,0,False
+False,243,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,23.5003,2.59622,-3.33856,0.279821,2.52002
+False,243,True,6,User Circle,Red,28.8933,1.67167,0.389881,0,-0.506999,False
+False,243,True,5,circle,Blue,23.4447,2.59816,-3.33856,0.116487,2.54156,False
+False,243,True,4,circle,Green,2.13333,1.25499,0,0,0,False
+False,247,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,23.2778,2.58765,-3.33856,-0.373513,2.60617
+False,247,True,6,User Circle,Red,28.9193,1.67167,0.389794,0,-0.522615,False
+False,247,True,5,circle,Blue,23.2221,2.58779,-3.33679,-1.41174e-08,2.62772,False
+False,247,True,4,circle,Green,2.13333,1.25499,0,0,0,False
+True,566,False,,,,,,,,,True,begin,4,circle,Green,2.13333,1.255,0,0,0,5,circle,Blue,5.69237,2.58833,-3.27843,0,9.42002
+True,566,True,6,User Circle,Red,30.9733,1.67167,0.382933,0,-1.7569,False
+True,566,True,5,circle,Blue,5.65915,2.60667,-2.10788,1.05672,9.43181,False
+True,566,True,4,circle,Green,2.08633,1.25328,-2.33061,-1.49012e-07,-0.0112349,False
+True,567,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,5.65915,2.60667,-2.10788,1.05672,9.43181
+True,567,True,6,User Circle,Red,30.9797,1.67167,0.382911,0,-1.76073,False
+True,567,True,5,circle,Blue,5.62403,2.62156,-2.10788,0.893391,9.44359,False
+True,567,True,4,circle,Green,2.04881,1.25361,-2.24895,-3.72529e-09,-0.020296,False
+True,570,False,,,,,,,,,True,end,4,circle,Green,1.97793,1.25411,-2.08561,2.7586e-09,-0.0318971,5,circle,Blue,5.55376,2.64318,-2.10788,0.566724,9.46715
+True,570,True,6,User Circle,Red,30.9988,1.67167,0.382847,0,-1.77224,False
+True,570,True,5,circle,Blue,5.51863,2.6499,-2.10788,0.403391,9.47892,False
+True,570,True,4,circle,Green,1.94453,1.25429,-2.00395,0,-0.0344375,False
+True,573,False,,,,,,,,,True,begin,4,circle,Green,1.88181,1.25454,-1.84061,0,-0.0329987,5,circle,Blue,5.44837,2.65518,-2.10788,0.076724,9.50247
+True,573,True,6,User Circle,Red,31.018,1.67167,0.382784,0,-1.78374,False
+True,573,True,5,circle,Blue,5.41512,2.65582,-1.99471,0.0386149,9.51327,False
+True,573,True,4,circle,Green,1.84887,1.25464,-1.97639,2.14204e-08,-0.0305032,False
+True,582,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,5.17535,2.59196,-1.64962,-0.888027,9.58608
+True,582,True,6,User Circle,Red,31.0754,1.67167,0.382592,0,-1.81823,False
+True,582,True,5,circle,Blue,5.15029,2.59546,-1.50379,0.210272,9.59579,False
+True,582,True,4,circle,Green,1.55281,1.25495,-1.9028,-4.69198e-09,0.0647369,False
+True,583,False,,,,,,,,,True,end,4,circle,Green,1.55281,1.25495,-1.9028,-4.69198e-09,0.0647369,5,circle,Blue,5.15029,2.59546,-1.50379,0.210272,9.59579
+True,583,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,5.15029,2.59546,-1.50379,0.210272,9.59579
+True,583,True,6,User Circle,Red,31.0817,1.67167,0.38257,0,-1.82206,False
+True,583,True,5,circle,Blue,5.12523,2.59624,-1.50379,0.0469388,9.60549,False
+True,583,True,4,circle,Green,1.52246,1.25496,-1.82114,-2.7586e-09,0.0844208,False
+False,586,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,5.0751,2.58964,-1.50379,-0.279728,9.62489
+False,586,True,6,User Circle,Red,31.1009,1.67167,0.382507,0,-1.83356,False
+False,586,True,5,circle,Blue,5.05005,2.58964,-1.50324,0,9.6346,False
+False,586,True,4,circle,Green,1.43665,1.25498,-1.70462,0,0.151824,False
+False,593,False,,,,,,,,,True,begin,1,boundary,Black,-0.416667,21.3333,0,0,0,4,circle,Green,1.245,1.255,-1.70396,0,0.305451
+False,593,True,6,User Circle,Red,31.1455,1.67167,0.382358,0,-1.86037,False
+False,593,True,5,circle,Blue,4.87471,2.58964,-1.50265,0,9.70252,False
+False,593,True,4,circle,Green,1.25628,1.2574,0.340792,0.569517,0.307374,False
+True,595,False,,,,,,,,,True,end,1,boundary,Black,-0.416667,21.3333,0,0,0,4,circle,Green,1.26196,1.26417,0.340792,0.406183,0.314982
+True,595,False,,,,,,,,,True,begin,4,circle,Green,1.26196,1.26417,0.340792,0.406183,0.314982,5,circle,Blue,4.84967,2.58964,-1.50257,0,9.71222
+True,595,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,4,circle,Green,1.26196,1.26417,0.340792,0.406183,0.314982
+True,595,False,,,,,,,,,True,begin,1,boundary,Black,-0.416667,21.3333,0,0,0,4,circle,Green,1.245,1.25213,-1.19444,-0.848138,0.310339
+True,595,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,4,circle,Green,1.245,1.25213,-1.19444,-0.848138,0.310339
+True,595,True,6,User Circle,Red,31.1582,1.67167,0.382315,0,-1.86802,False
+True,595,True,5,circle,Blue,4.83061,2.59118,-1.14312,0.0921009,9.72044,False
+True,595,True,4,circle,Green,1.25529,1.25496,0.179046,4.47035e-08,0.309985,False
+True,597,False,,,,,,,,,True,end,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,4.83082,2.60214,-0.00486451,0.651571,9.72507
+True,597,True,6,User Circle,Red,31.171,1.67167,0.382272,0,-1.87568,False
+True,597,True,5,circle,Blue,4.83088,2.61033,-0.00486454,0.488237,9.7297,False
+True,597,True,4,circle,Green,1.25431,1.2545,0.0161876,-1.86265e-09,0.309552,False
+True,606,False,,,,,,,,,True,begin,0,boundary,Black,21.3333,-0.416667,0,0,0,5,circle,Blue,4.84191,2.58993,0.216902,-0.578002,9.76091
+True,606,True,6,User Circle,Red,31.2283,1.67167,0.382081,0,-1.91013,False
+True,606,True,5,circle,Blue,4.84197,2.58994,0.00286031,9.22591e-09,9.76089,False
+True,606,True,4,circle,Green,1.25462,1.25478,-4.52255e-08,1.72156e-09,0.309018,False
