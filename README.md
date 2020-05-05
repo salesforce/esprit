@@ -1,4 +1,4 @@
-# esprit
+# ESPRIT
 Dataset and documentation for paper on [Explaining Solutions to Physical Reasoning Tasks (ESPRIT)](https://arxiv.org/abs/2005.00730)
 
 This repo provides the dataset used to reproduce results in our paper accepted at ACL 2020 -- ESPRIT: Explaining Solutions to Physical ReasonIng Tasks.
