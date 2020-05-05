@@ -1,6 +1,9 @@
 # ESPRIT
 Dataset and documentation for paper on [Explaining Solutions to Physical Reasoning Tasks (ESPRIT)](https://arxiv.org/abs/2005.00730)
 
+Overview of the end-to-end ESPIRT framework
+![github-small](esprit_framework.png)
+
 This repo provides the dataset used to reproduce results in our paper accepted at ACL 2020 -- ESPRIT: Explaining Solutions to Physical ReasonIng Tasks.
 Our dataset extends the Physical Reasoning (PHYRE) dataset (https://phyre.ai/) to include annotations for pivotal frames as well as natural language open ended explanations for the solutions to 2D physics simulations.
 
