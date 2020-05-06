@@ -1,5 +1,5 @@
 # ESPRIT
-Dataset and documentation for paper on [Explaining Solutions to Physical Reasoning Tasks (ESPRIT)].(https://arxiv.org/abs/2005.00730)
+Dataset and documentation for paper on [Explaining Solutions to Physical Reasoning Tasks (ESPRIT)](https://arxiv.org/abs/2005.00730)
 
 Figure below shows an overview of the end-to-end ESPIRT framework.
 ![github-small](esprit_framework.png)
