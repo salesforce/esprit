@@ -24,8 +24,8 @@ If you use this dataset or paper in your work, please cite: [Explaining Solution
     title = {{ESPRIT}: {E}xplaining {S}olutions to {P}hysical {R}easoning {T}asks},
     author = {Nazneen Fatema Rajani, Rui Zhang, Yi Chern Tan, Stephan Zheng, Jeremy Weiss, Aadit Vyas, Abhijit Gupta, Caiming Xiong, Richard Socher, Dragomir Radev},
     booktitle = {Proceedings of the 2020 Conference of the Association for Computational Linguistics (ACL2020)},
-    year = {2020}
-    url = {https://arxiv.org/abs/2005.00730}
+    year = {2020},
+    url = {https://arxiv.org/abs/2005.00730},
 }
 ```
 
